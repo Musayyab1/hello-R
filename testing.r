@@ -1,3 +1,6 @@
 # Testing file
 
-pritn("Hellow world")
+print("Hellow world")
+
+newLine ="Hello2"
+
